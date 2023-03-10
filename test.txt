@@ -1,3 +1,47 @@
+# Copyright (c) 2014-2023 Maltrail developers (https://github.com/stamparm/maltrail/)
+# See the file 'LICENSE' for copying permission
+
+# Reference: https://www.welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/ (# AdDisplay)
+
+35.198.197.119:8080
+
+# Reference: https://twitter.com/sh1shk0va/status/1204022927596937217
+
+fbgg.xyz
+bmm.fbgg.xyz
+
+# Reference: https://securelist.com/mobile-subscriptions/91211/
+
+okyesmobi.com
+
+# Reference: https://twitter.com/sh1shk0va/status/1205511108582354944
+
+data.djmixer2018.com	
 123.175.65.245
 35.198.197.111
 35.198.197.110:8080
+[a-z]{1}\.appjiagu\.com
+/ad-service/ad/mark
+/jiagu/mark/msg
+/jiagu/mark/upgrade
+/jiagu/msgs
+/jiagu/t/infos
+
+# Reference: https://www.
+
+# Reference: https://www.virustotal.com/gui/file/5cc8abd9f2bca50981b59fedc942198f5ce0b32412f99c760c50b6eccc61ef9d/detection
+
+http://114.55.98.58
+http://119.29.29.29
+http://121.36.11.191
+http://123.56.234.77
+
+# Reference: https://www.virustotal.com/gui/file/c5b4f5944f20be85e602b08d276b62fdab496eb6e0569196727dfb2e412c31ff/detection
+
+39.108.42.112:8080
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.113.120.215/relations
+
+http://45.113.120.215
+
+# Reference: https://ww
